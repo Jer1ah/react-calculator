@@ -1,0 +1,14 @@
+.counter {
+    background-color: #333;
+    height: 5.5rem;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.counter h3 {
+    color: white;
+    font-size: 3.5rem;
+    font-weight: 200;
+    margin-right: 2rem;
+}

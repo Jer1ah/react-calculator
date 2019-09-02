@@ -1,0 +1,32 @@
+.button {
+    background-color: lightgray;
+    color: #333;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #333;
+}
+
+.button:hover {
+    cursor: pointer;
+}
+
+.button h3 {
+    font-size: 2rem;
+    font-weight: 400;
+}
+
+.orange {
+    background-color: orange;
+    color: white;
+}
+
+.zero {
+    flex: 2;
+    justify-content: flex-start;
+}
+
+.zero h3 {
+    margin-left: 2.5rem;
+}
